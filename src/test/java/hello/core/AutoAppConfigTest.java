@@ -3,6 +3,7 @@ package hello.core;
 import static org.junit.jupiter.api.Assertions.assertInstanceOf;
 
 import hello.core.member.MemberService;
+import hello.core.scan.AutoAppConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
